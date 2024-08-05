@@ -1,1 +1,2 @@
-# Multiple-Linear-Regression
+Here we have analyzed a small business' historical marketing promotion data. Each row provides data about an independent marketing promotion where their business uses Radio, TV, Influencer and Social Media promotions to increase sales. 
+We have conducted a multiple linear regression analysis to estimate which variables are the better predictor of Sales by what magnitude and direction. The estimates have also been converted into explainable insights to be provided to stakeholders.
